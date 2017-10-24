@@ -1,0 +1,11 @@
+{
+    "data": [
+      {"report": "1", "groupa": 4000, "groupb": 2400, "groupc": 2400},
+      {"report": "2", "groupa": 3000, "groupb": 1398, "groupc": 2210},
+      {"report": "3", "groupa": 2000, "groupb": 9800, "groupc": 2290},
+      {"report": "4", "groupa": 2780, "groupb": 3908, "groupc": 2000},
+      {"report": "5", "groupa": 1890, "groupb": 4800, "groupc": 2181},
+      {"report": "6", "groupa": 2390, "groupb": 3800, "groupc": 2500},
+      {"report": "7", "groupa": 3490, "groupb": 4300, "groupc": 2100}
+    ]
+}
